@@ -16,4 +16,6 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
- * library: WorldPainter(<https://github.com/Captain-Chaos/WorldPainter>), nbt(<https://github.com/flow/nbt>);
+## library
+ * [WorldPainter](<https://github.com/Captain-Chaos/WorldPainter>) 
+ * [NBT](<https://github.com/flow/nbt>);
